@@ -1,0 +1,5 @@
+{
+  "name": "FlowState-Rail",
+  "description": "An intelligent decision-support system to assist railway section controllers in making optimized, real-time decisions for train precedence and crossings. It leverages AI to enhance efficiency, punctuality, and utilization of railway infrastructure.",
+  "requestFramePermissions": []
+}
